@@ -26,6 +26,13 @@
 
 </head>
 <body>
+	大象席地而坐電影配樂<br>
+	<audio controls>
+		<source src="elephant.mp3" type="audio/mP3">
+	</audio><br>
+
+	不要去臺灣<br>
+	<iframe src="https://www.youtube.com/embed/pW88QFpHXa8" allowfullscreen></iframe>
 <body>
 	<table width="70%">
 		<tr>
